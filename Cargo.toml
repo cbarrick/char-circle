@@ -6,6 +6,7 @@ authors = ["Chris Barrick <cbarrick1@gmail.com>"]
 edition = "2018"
 license = "MIT"
 
+readme = "README.md"
 homepage = "https://github.com/cbarrick/char-circle"
 documentation = "https://docs.rs/char-circle"
 repository = "https://github.com/cbarrick/char-circle"
