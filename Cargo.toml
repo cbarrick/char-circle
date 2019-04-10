@@ -1,7 +1,7 @@
 [package]
 name = "char-circle"
 description = "A circular buffer for strings and traits for in-place string transforms."
-version = "0.1.0-rc2"
+version = "0.1.0"
 authors = ["Chris Barrick <cbarrick1@gmail.com>"]
 edition = "2018"
 license = "MIT"
